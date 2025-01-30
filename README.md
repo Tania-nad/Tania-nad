@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋   
+🚀 Passionate about web development and constant learning.  
 
-<!--
-**Tania-nad/Tania-nad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌍 About me  
+- 🌎 I´ve lived in three different countries  
+- 💻 Working and learning about **web programming**  
+- 🎯 Searching for new opportunities to expand my growing on this sector  
 
-Here are some ideas to get you started:
+## 🚀 Tech  
+💡 JavaScript | React | HTML5 | CSS3 | Git | Node.js  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Fun fact: 
+I´ve never watched Lost or Breaking Bad
+
+📫 **How to reach me:**  
+[LinkedIn](https://www.linkedin.com/in/tania-nadales-704208302/) 
